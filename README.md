@@ -42,7 +42,6 @@ Projeto frontend de aplicativo escolar.
       <img src="./assets/screenshots/horario.jpg" alt="Horário de aulas" width="200" /><br/>
       <strong>Horário</strong>
     </td>
-    <td></td>
   </tr>
 </table>
 
