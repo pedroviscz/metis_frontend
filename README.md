@@ -1,4 +1,4 @@
-# Nome do Seu Projeto React Native
+# Métis
 
 ![Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -7,7 +7,7 @@
 
 ## 📱 Sobre o Projeto
 
-
+Projeto frontend de aplicativo escolar.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -18,13 +18,18 @@
 
 ## 📸 Screenshots
 
-[Adicione screenshots do seu aplicativo aqui]
+![Tela de login](./assets/screenshots/login.jpg)
+![QRCode](./assets/screenshots/qrcode.jpg)
+![Carteirinha de estudante](./assets/screenshots/carteirinha.jpg)
+![Frequência escolar](./assets/screenshots/frequencia.jpg)
+![Horário de aulas](./assets/screenshots/horario.jpg)
+
 
 ## 🛠️ Como Executar
 
 1. Clone o repositório
    ```bash
-   git clone [seu-repositorio]
+   git clone https://github.com/pedroviscz/metis_frontend
    ```
 
 2. Instale as dependências
@@ -45,7 +50,7 @@
 
 ## 🔗 Links Úteis
 
-- [APK para download]([seu-link-apk])
+- [APK para download](https://expo.dev/artifacts/eas/pQXd2xmhL2q68rVjdnbMDk.apk)
 
 ## 🤝 Contribuição
 
@@ -54,9 +59,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 ## 📄 Licença
 
 Este projeto está sob a licença MIT License.
-
-## 📧 Contato
-
-Pedro Lucas Almeida Cunha - [seu-email@exemplo.com]
-
-[Seu LinkedIn]([seu-link-linkedin])

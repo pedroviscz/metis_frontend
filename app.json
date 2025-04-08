@@ -63,8 +63,9 @@
         "origin": false
       },
       "eas": {
-        "projectId": "26c33e14-f527-49cc-a494-9e5f18348339"
+        "projectId": "a009df63-261a-43e3-9f23-6f72a9fb4d42"
       }
-    }
+    },
+    "owner": "pedroviscz"
   }
 }
