@@ -18,20 +18,33 @@ Projeto frontend de aplicativo escolar.
 
 ## 📸 Screenshots
 
-### Tela de Login  
-<img src="./assets/screenshots/login.jpg" alt="Tela de login" width="300" />
-
-### QRCode  
-<img src="./assets/screenshots/qrcode.jpg" alt="QRCode" width="300" />
-
-### Carteirinha de estudante  
-<img src="./assets/screenshots/carteirinha.jpg" alt="Carteirinha de estudante" width="300" />
-
-### Frequência escolar  
-<img src="./assets/screenshots/frequencia.jpg" alt="Frequência escolar" width="300" />
-
-### Horário de aulas  
-<img src="./assets/screenshots/horario.jpg" alt="Horário de aulas" width="300" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/screenshots/login.jpg" alt="Tela de login" width="200" /><br/>
+      <strong>Tela de Login</strong>
+    </td>
+    <td align="center">
+      <img src="./assets/screenshots/qrcode.jpg" alt="QRCode" width="200" /><br/>
+      <strong>QRCode</strong>
+    </td>
+    <td align="center">
+      <img src="./assets/screenshots/carteirinha.jpg" alt="Carteirinha de estudante" width="200" /><br/>
+      <strong>Carteirinha</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/screenshots/frequencia.jpg" alt="Frequência escolar" width="200" /><br/>
+      <strong>Frequência</strong>
+    </td>
+    <td align="center">
+      <img src="./assets/screenshots/horario.jpg" alt="Horário de aulas" width="200" /><br/>
+      <strong>Horário</strong>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ## 🛠️ Como Executar
 
