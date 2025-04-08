@@ -18,12 +18,20 @@ Projeto frontend de aplicativo escolar.
 
 ## 📸 Screenshots
 
-![Tela de login](./assets/screenshots/login.jpg)
-![QRCode](./assets/screenshots/qrcode.jpg)
-![Carteirinha de estudante](./assets/screenshots/carteirinha.jpg)
-![Frequência escolar](./assets/screenshots/frequencia.jpg)
-![Horário de aulas](./assets/screenshots/horario.jpg)
+### Tela de Login  
+<img src="./assets/screenshots/login.jpg" alt="Tela de login" width="300" />
 
+### QRCode  
+<img src="./assets/screenshots/qrcode.jpg" alt="QRCode" width="300" />
+
+### Carteirinha de estudante  
+<img src="./assets/screenshots/carteirinha.jpg" alt="Carteirinha de estudante" width="300" />
+
+### Frequência escolar  
+<img src="./assets/screenshots/frequencia.jpg" alt="Frequência escolar" width="300" />
+
+### Horário de aulas  
+<img src="./assets/screenshots/horario.jpg" alt="Horário de aulas" width="300" />
 
 ## 🛠️ Como Executar
 
