@@ -1,0 +1,14 @@
+export { default as Girl } from './Girl';
+export { default as TopSpot } from './TopSpot';
+export { default as BottomSpot } from './BottomSpot';
+export { default as SplashText } from './SplashText';
+export { default as SplashLogo } from './SplashLogo';
+export { default as ArrowDown } from './ArrowDown';
+export { default as ArrowUp } from './ArrowUp';
+export { default as Person } from './Person';
+export { default as Lock } from './Lock';
+export { default as ClosedEye } from './ClosedEye';
+export { default as OpenedEye } from './OpenedEye';
+export { default as Bell } from './Bell';
+export { default as Clock } from './Clock';
+export { default as Calendar } from './Calendar';
