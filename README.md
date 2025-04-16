@@ -1,5 +1,7 @@
 # Métis
 
+## 🚀 Tecnologias Utilizadas
+
 ![Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Badge](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -8,13 +10,6 @@
 ## 📱 Sobre o Projeto
 
 Projeto frontend de aplicativo escolar.
-
-## 🚀 Tecnologias Utilizadas
-
-- React Native
-- Expo
-- TypeScript
-- Javascript
 
 ## 📸 Screenshots
 
