@@ -81,12 +81,29 @@ Este projeto está sob a licença MIT License.
 
 ## 👥 Colaboradores
 
-<div align="center">
-  <a href="https://github.com/MarihTavares" target="_blank">
-    <img src="https://github.com/MarihTavares.png" width="100px;" alt="nome-de-usuario"/>
-  </a>
-  
-  <a href="https://github.com/WalacePrado" target="_blank">
-    <img src="https://github.com/WalacePrado.png" width="100px;" alt="nome-de-usuario"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MarihTavares">
+        <img src="https://github.com/MarihTavares.png" width="100px;" alt="Marina Tavares"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MarihTavares">
+        <b>Marina Tavares</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/WalacePrado">
+        <img src="https://github.com/WalacePrado.png" width="100px;" alt="Walace Prado"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/WalacePrado">
+        <b>Walace Prado</b>
+      </a>
+    </td>
+  </tr>
+</table>
