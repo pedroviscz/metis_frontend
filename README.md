@@ -78,3 +78,13 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 ## 📄 Licença
 
 Este projeto está sob a licença MIT License.
+
+## 👥 Colaboradores
+
+<a href="https://github.com/MarihTavares" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/ID_DO_USUARIO?v=4" width="100px;" alt="nome-de-usuario"/>
+</a>
+
+<a href="https://github.com/WalacePrado" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/ID_DO_USUARIO?v=4" width="100px;" alt="nome-de-usuario"/>
+</a>
