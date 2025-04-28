@@ -89,4 +89,4 @@ Este projeto está sob a licença MIT License.
   <a href="https://github.com/WalacePrado" target="_blank">
     <img src="https://github.com/WalacePrado.png" width="100px;" alt="nome-de-usuario"/>
   </a>
-<div align="center">
+</div>
