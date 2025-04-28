@@ -81,6 +81,9 @@ Este projeto está sob a licença MIT License.
 
 ## 👥 Colaboradores
 
+Responsáveis pela prototipagem no 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="15" alt="figma logo" />.
+
 <table>
   <tr>
     <td align="center">
